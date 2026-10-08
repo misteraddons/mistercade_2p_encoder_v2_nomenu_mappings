@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 4801 games in 406 unique mapping groups
+# 4802 games in 406 unique mapping groups
 # Versions: 2P Encoder V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -4056,6 +4056,9 @@
 
 # 2-button: cameltry*
 03000000d01600004f14000011010000,MiSTercade 2P Encoder V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b7,lefttrigger:b10,start:b9,back:b8,menuok:b1,menuesc:b7,mistercore:cameltry*,platform:MiSTer
+
+# 3-button: candance
+03000000d01600004f14000011010000,MiSTercade 2P Encoder V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,x:b6,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,mistercore:candance,platform:MiSTer
 
 # 1-button: carnival
 03000000d01600004f14000011010000,MiSTercade 2P Encoder V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,lefttrigger:b10,start:b9,back:b8,menuok:b1,mistercore:carnival,platform:MiSTer
