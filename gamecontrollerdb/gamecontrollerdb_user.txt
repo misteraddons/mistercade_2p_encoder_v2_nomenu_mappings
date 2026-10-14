@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 4981 games in 417 unique mapping groups
+# 4986 games in 418 unique mapping groups
 # Versions: 2P Encoder V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -5439,6 +5439,9 @@
 
 # 2-button: mysticri
 03000000d01600004f14000011010000,MiSTercade 2P Encoder V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b10,start:b9,back:b8,menuok:b1,menuesc:b0,mistercore:mysticri,platform:MiSTer
+
+# 2-button: mystston
+03000000d01600004f14000011010000,MiSTercade 2P Encoder V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b3,lefttrigger:b10,start:b9,back:b8,menuok:b1,menuesc:b3,mistercore:mystston,platform:MiSTer
 
 # 2-button: mystwarr*
 03000000d01600004f14000011010000,MiSTercade 2P Encoder V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b10,start:b9,back:b8,menuok:b1,menuesc:b0,mistercore:mystwarr*,platform:MiSTer
